@@ -1,0 +1,19 @@
+Daniel Riaz
+2/23/16
+System Analysis and Design
+Custom Rigs Description
+The opportunity for fully customizable PC’s is completely evident. In today’s market with regards to PC building is filled with limitation. 
+A majority of today’s society uses PC’s for everyday use whether at home use or for work purposes. What we want to do at Custom Rigs is give the consumer the option to completely
+ customize their rig for the requirements they need whether video editing or gaming, from internal to external customization and accurate data that shows what consumer is gaining 
+from specific parts and what they are losing. The Custom Rigs system will be able to offer the user the options and customization options for building their PC from the ground up,
+ Starting from the fundamental hardware such as the Motherboard, RAM, CPU, heat sink, GPU, ETC. All while offering insight on how different hardware is needed for the uses they are 
+demanding. The system will also have a compatibility list in which it can determine to make sure the PC is flawless and in unity with each other. In the Custom Rigs Company we have 
+7 locations in major Cities of the US, New York City, Chicago, Austin, San Francisco, Charleston, Miami, Seattle ,  we have over 200 employees ranging from Customer Support, Building 
+Technicians who are the ones that are licenses and qualified for building all of our premium custom PC’s, A marketing team located in our New York City location as well as an accountant 
+in every physical Custom Rigs location and financial department that runs the overall sales that are located in the Austin, Texas location. The orders per day can vary depending on the 
+season. The holiday season and the winter season is our most busy time of the year, our sales average 220 Pc’s daily for all locations. The prices of a Custom Rig can range from $600 to
+ $1000. The limitations may be processing and delivery times due to having to order the parts after the customization is made by the consumer.  Another challenge is inventory waste in 
+which a certain piece of hardware may be over ordered and after an indefinite amount of time will become obsolete and because Custom Rigs is nationally recognized for creating quality
+ products including obsolete technology would jeopardize the business model.
+
+
